@@ -62,6 +62,7 @@ img {
 
 .icon {
   stroke: #099268;
+  font-size: 24px;
 }
 .icon_wrapper--right {
   position: absolute;
